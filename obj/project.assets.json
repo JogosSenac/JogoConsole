@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj",
+      "projectUniqueName": "c:\\tmp\\Jogo de Console\\Prova-Final.csproj",
       "projectName": "Prova-Final",
-      "projectPath": "C:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj",
+      "projectPath": "c:\\tmp\\Jogo de Console\\Prova-Final.csproj",
       "packagesPath": "C:\\Users\\ruben.prado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\obj\\",
+      "outputPath": "c:\\tmp\\Jogo de Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

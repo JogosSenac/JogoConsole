@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj": {}
+    "c:\\tmp\\Jogo de Console\\Prova-Final.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj": {
+    "c:\\tmp\\Jogo de Console\\Prova-Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj",
+        "projectUniqueName": "c:\\tmp\\Jogo de Console\\Prova-Final.csproj",
         "projectName": "Prova-Final",
-        "projectPath": "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\Prova-Final.csproj",
+        "projectPath": "c:\\tmp\\Jogo de Console\\Prova-Final.csproj",
         "packagesPath": "C:\\Users\\ruben.prado\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ruben.prado\\Documents\\UC4-Tarde\\Prova-Final\\obj\\",
+        "outputPath": "c:\\tmp\\Jogo de Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
